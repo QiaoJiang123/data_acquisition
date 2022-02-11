@@ -39,6 +39,9 @@ The information are extracted and contained in the following files:
 
 ### broker_branch_office_info.csv
 
+Requester Pays s3 bucket: s3://datahubforall/broker/broker_branch_office_info.csv
+
+
 Columns:
 * CRD Number
 * Register Status
@@ -47,4 +50,3 @@ Columns:
 * Branch Office CRD
 * Branch Office Start Date
 
-s3://datahubforall/broker/broker_branch_office_info.csv
