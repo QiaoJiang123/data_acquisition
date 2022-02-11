@@ -41,7 +41,6 @@ The information are extracted and contained in the following files:
 
 Requester Pays s3 bucket: s3://datahubforall/broker/broker_branch_office_info.csv
 
-
 Columns:
 * CRD Number
 * Register Status
