@@ -34,3 +34,17 @@ The raw pdf files for brokers and firms are in the Requester Pays s3 bucket:
 The information are extracted and contained in the following files:
 
 1. broker_name_CRD.csv
+2. broker_branch_office_info.csv
+
+
+### broker_branch_office_info.csv
+
+Columns:
+* CRD Number
+* Register Status
+* Branch Office Name
+* Branch Office ADDRESS
+* Branch Office CRD
+* Branch Office Start Date
+
+s3://datahubforall/broker/broker_branch_office_info.csv
