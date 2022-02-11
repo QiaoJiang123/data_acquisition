@@ -4,6 +4,10 @@ This folder extracted brokers' information from FINRA via BrokerCheck report. No
 
 The source for this BrokerCheck report is https://brokercheck.finra.org/
 
+# Code
+
+The code is still been revised for better quality. The results are obtained using old version of codes, which are not uploaded here.
+
 # Brokers' Information (Last Update 04/15/2020)
 
 There are 9 elements for brokers' information:
