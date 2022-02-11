@@ -24,7 +24,9 @@ There are 9 elements for brokers' information:
 
 ## Raw PDF files
 
-The raw pdf files are in the Requester Pays s3 bucket: 
+The raw pdf files are in the Requester Pays s3 bucket: s3://datahubforall/broker/broker.zip
+
+## Brokers' Information Files
 
 The information are extracted and contained in the following files:
 
