@@ -3,3 +3,21 @@
 This folder extracted brokers' information from FINRA via BrokerCheck report. Note some broker only has IAPD report. I will deal with it later
 
 The source for this BrokerCheck report is https://brokercheck.finra.org/
+
+# Brokers' Information (Last Update 04/15/2020)
+
+There are 9 elements for brokers' information:
+
+1. Name
+2. CRD
+3. Branch Office Information
+4. Disclosed Event
+5. Registration History
+6. Employment History
+7. Exam
+8. Misconduct
+9. Other Business Activities
+
+The information are extracted and contained in the following files:
+
+1. broker_name_CRD.csv
