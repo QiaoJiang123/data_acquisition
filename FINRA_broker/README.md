@@ -18,6 +18,10 @@ There are 9 elements for brokers' information:
 8. Misconduct
 9. Other Business Activities
 
+## Raw PDF files
+
+The raw pdf files are in the Requester Pays s3 bucket: 
+
 The information are extracted and contained in the following files:
 
 1. broker_name_CRD.csv
