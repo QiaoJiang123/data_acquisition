@@ -23,5 +23,8 @@ Note for each case, there may be multiple judicial opinions (pdf files) and summ
 
 ### Code
 
+The code to download all case urls is: 
+
 To acquire sitemap urls for all cases (not US court + year), You can either add time.sleep(1) in the loop or run the code more than once (the code will pick up remaining sitemaps to acquire all case urls) since the website imposes maximum limit on requests.
+
 
