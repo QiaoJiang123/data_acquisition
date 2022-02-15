@@ -18,3 +18,13 @@ Here is a list of information extracted:
 3. Case metadata
 4. Case PDF files
 5. ...
+
+### Sitemap urls
+
+This file is in the Requester Pay S3 bucket: 
+
+It contains the following columns:
+1. US court + year url (2,721)
+2. Case url
+
+Note for each case, there may be multiple judicial opinions (pdf files) and summaries.
