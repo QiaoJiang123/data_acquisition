@@ -12,7 +12,9 @@ Here is a list of information extracted from this website and organized into csv
 4. Case PDF files
 5. ...
 
-## Sitemap urls/ Case urls
+Check the following sections for more details.
+
+## Sitemap urls/ Case urls (downloaded)
 
 Sitmap urls allow us to keep track of cases by US courts and years. Case urls direct us to each case including its summary, details, metadata, judicial opinion (in pdf), etc.
 
@@ -32,6 +34,6 @@ The code to download all case urls is in Govinfo_Sitemap_Download.ipynb
 
 To acquire sitemap urls for all cases (not US court + year), You can either add time.sleep(1) in the loop or run the code more than once (the code will pick up remaining sitemaps to acquire all case urls) since the website imposes maximum limit on requests.
 
-## Metadata download
+## Metadata download (downloading)
 
 ## Metadata extraction
