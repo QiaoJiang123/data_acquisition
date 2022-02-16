@@ -1,15 +1,20 @@
 # Govinfo - US Court Cases
 
-This section contains information extracted from Govinfo.gov
+This section contains information extracted from Govinfo.gov.
 
-Here is a list of information extracted:
+Govinfo.gov is a service of the United States Government Publishing Office (GPO), which is a Federal agency in the legislative branch.
+It provides free public access to official publications from all three branches of the Federal Government.
+
+Here is a list of information extracted from this website and organized into csv files:
 1. Sitemap urls
 2. Case urls
 3. Case metadata
 4. Case PDF files
 5. ...
 
-## Sitemap urls
+## Sitemap urls/ Case urls
+
+Sitmap urls allow us to keep track of cases by US courts and years. Case urls direct us to each case including its summary, details, metadata, judicial opinion (in pdf), etc.
 
 ### Data
 
