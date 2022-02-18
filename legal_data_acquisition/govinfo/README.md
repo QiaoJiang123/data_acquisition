@@ -20,7 +20,7 @@ Sitmap urls allow us to keep track of cases by US courts and years. Case urls di
 
 ### Data
 
-This file is in the Requester Pay S3 bucket: s3://datahubforall/legal/govinfo/govinfo_sitemap_all_url.csv
+This file is in the Requester Pay S3 bucket: ***s3://datahubforall/legal/govinfo/govinfo_sitemap_all_url.csv***
 
 It contains the following columns:
 1. US court + year url (2,721)
