@@ -44,6 +44,6 @@ This file is in the Requester Pay S3 bucket: ***s3://datahubforall/legal/govinfo
 
 The code to download all metadata for cases is in ***Govinfo_case_metadata_download.py***
 
-You may need to run this code multiple times due to request limits of the website.
+You may need to run this code multiple times due to request limits of the website. Also, sometimes, the metadata of some case can be downloaded successfully but is not the desired one. You just need to redownload it.
 
 ## Metadata extraction
