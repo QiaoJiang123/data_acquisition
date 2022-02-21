@@ -40,6 +40,10 @@ To acquire sitemap urls for all cases (not US court + year), You can either add 
 
 This file is in the Requester Pay S3 bucket: ***s3://datahubforall/legal/govinfo/Govinfo_metadata.tar.gz***
 
+### Code
 
+The code to download all metadata for cases is in ***Govinfo_case_metadata_download.py***
+
+You may need to run this code multiple times due to request limits of the website.
 
 ## Metadata extraction
