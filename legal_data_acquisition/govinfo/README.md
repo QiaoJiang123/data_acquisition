@@ -10,7 +10,6 @@ Here is a list of information extracted from this website and organized into csv
 2. Case urls
 3. Case metadata
 4. Case PDF files
-5. ...
 
 Check the following sections for more details.
 
@@ -47,3 +46,16 @@ The code to download all metadata for cases is in ***Govinfo_case_metadata_downl
 You may need to run this code multiple times due to request limits of the website. Also, sometimes, the metadata of some case can be downloaded successfully but is not the desired one. You just need to redownload it.
 
 ## Metadata extraction
+
+### Data
+
+Here is the list of information extracted from the metadata files:
+
+1. govinfo_party_name.csv
+
+#### govinfo_party_name.csv
+
+Data location: ***s3://datahubforall/legal/govinfo/govinfo_party_name.csv***
+
+### Code
+
