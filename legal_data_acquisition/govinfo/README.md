@@ -98,4 +98,14 @@ There are 3,483,428 rows and 7 columns. The columns include:
 
 ### Code
 
+The code to download all case urls is in ***Govinfo_metadata_extraction.py***
+
+There are a few functions in this script responsible for extracting information from metadata files:
+
+* get_party_name
+* get_details
+* get_basic_information
+
+Each function takes a location of metadata file as input and save the result to a specified folder. You can find the aggregated result in the Requester Pay S3 buckets given above.
+
 ## PDF Download (In Progress)
