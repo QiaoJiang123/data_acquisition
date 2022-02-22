@@ -69,7 +69,7 @@ There are 9,451,173 rows and 6 columns. The columns include:
 
 This file is in the Requester Pay S3 bucket: ***s3://datahubforall/legal/govinfo/govinfo_basic_information.csv***
 
-There are  rows and 12 columns. The columns include:
+There are 1,615,325 rows and 12 columns. The columns include:
 * caseIdentifier
 * caseURI
 * natureSuit
@@ -82,6 +82,19 @@ There are  rows and 12 columns. The columns include:
 * caseOffice
 * caseType
 * cause
+
+#### govinfo_details.csv
+
+This file is in the Requester Pay S3 bucket: ***s3://datahubforall/legal/govinfo/govinfo_details.csv***
+
+There are 3,483,428 rows and 7 columns. The columns include:
+* caseIdentifier
+* caseURI
+* title
+* dateIssued
+* pdf_url
+* content_detail_url
+* docket_text
 
 ### Code
 
