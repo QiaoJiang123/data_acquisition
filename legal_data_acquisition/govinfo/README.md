@@ -33,7 +33,7 @@ The code to download all case urls is in ***Govinfo_Sitemap_Download.ipynb***
 
 To acquire sitemap urls for all cases (not US court + year), You can either add time.sleep(1) in the loop or run the code more than once (the code will pick up remaining sitemaps to acquire all case urls) since the website imposes maximum limit on requests.
 
-## Metadata download (Downloaded)
+## Metadata download
 
 ### Data 
 
@@ -55,7 +55,7 @@ Here is the list of information extracted from the metadata files:
 
 #### govinfo_party_name.csv
 
-Data location: ***s3://datahubforall/legal/govinfo/govinfo_party_name.csv***
+This file is in the Requester Pay S3 bucket: ***s3://datahubforall/legal/govinfo/govinfo_party_name.csv***
 
 ### Code
 
