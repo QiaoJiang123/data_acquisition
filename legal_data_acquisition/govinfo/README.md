@@ -57,5 +57,13 @@ Here is the list of information extracted from the metadata files:
 
 This file is in the Requester Pay S3 bucket: ***s3://datahubforall/legal/govinfo/govinfo_party_name.csv***
 
+There are 9,451,173 rows and 6 columns. The columns include:
+* caseIdentifier
+* caseURI
+* firstName
+* fullName
+* lastName
+* role
+
 ### Code
 
