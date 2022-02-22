@@ -72,7 +72,16 @@ This file is in the Requester Pay S3 bucket: ***s3://datahubforall/legal/govinfo
 There are  rows and 12 columns. The columns include:
 * caseIdentifier
 * caseURI
-* 
+* natureSuit
+* natureSuitCode
+* courtType
+* courtCode
+* courtCircuit
+* courtState
+* caseNumber
+* caseOffice
+* caseType
+* cause
 
 ### Code
 
