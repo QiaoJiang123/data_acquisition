@@ -98,7 +98,7 @@ There are 3,483,428 rows and 7 columns. The columns include:
 
 ### Code
 
-The code to download all case urls is in ***Govinfo_metadata_extraction.py***
+The code to extract metadata is in ***Govinfo_metadata_extraction.py***
 
 There are a few functions in this script responsible for extracting information from metadata files:
 
@@ -113,3 +113,5 @@ Each function takes a location of metadata file as input and save the result to 
 No downaloded pdf files yet. The estimated size of all pdf files is 650GB. If you have use case of the pdf files, you can request for download. 
 
 ### Code
+
+The code to download all pdf files is in ***Govinfo_pdf_download.py***
