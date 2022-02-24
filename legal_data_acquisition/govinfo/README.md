@@ -108,4 +108,8 @@ There are a few functions in this script responsible for extracting information 
 
 Each function takes a location of metadata file as input and save the result to a specified folder. You can find the aggregated result in the Requester Pay S3 buckets given above.
 
-## PDF Download (In Progress)
+## PDF Download (No Data)
+
+No downaloded pdf files yet. The estimated size of all pdf files is 650GB. If you have use case of the pdf files, you can request for download. 
+
+### Code
