@@ -6,7 +6,7 @@ The source for this BrokerCheck report is https://brokercheck.finra.org/
 
 # Code
 
-The code is still been revised for better quality. The results are obtained using old version of codes, which are not uploaded here.
+The code is uplaoded. The results are obtained via the code, which are not uploaded here but to AWS s3 bucket. It's in the Request Pays s3 bucket that is available to public.
 
 # Brokers' Information (Last Update 04/15/2020)
 
