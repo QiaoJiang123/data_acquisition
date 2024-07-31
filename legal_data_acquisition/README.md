@@ -1,6 +1,10 @@
-# legal-data-acquisition
+# Leagle Data Acquisition
 
-All data are stored in the Requester Pay S3 bucket in AWS. The location will be updated later.
+Data are stored in the Requester Pay S3 bucket in AWS.
+
+## Govinfo
+
+
 
 ## US Judges from Wiki (Updated on 02/06/2022)## 
 * US Court of Appeals Current Judge: ***s3://datahubforall/legal/USCA_current_judge.csv***
